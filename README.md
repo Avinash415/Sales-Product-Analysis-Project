@@ -1,3 +1,5 @@
+## Project folder link : https://drive.google.com/drive/folders/1YwEbGzNCzfrCV4pophLiA8tQ8jFTqxys?usp=sharing
+
 # Sales-Product-Analysis-Project
 Overview :
 This project aims to create a comprehensive Power BI dashboard for visualizing sales data related to various products. The dashboard provides insights into key performance indicators (KPIs) and helps stakeholders make informed decisions based on the presented data.
